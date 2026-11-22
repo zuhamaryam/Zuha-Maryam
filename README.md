@@ -1,94 +1,107 @@
-<h1 align="center">Hi! I'm Zuha Maryam 👋</h1>
+<h1 align="center">Hi! I'm Zuha Maryam</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=Python+Developer;Machine+Learning+Enthusiast;Aspiring+AI%2FML+Engineer" alt="Typing animation" />
-</p>
+<p align="center"><i>Computer Science Engineering student with hands-on experience building end-to-end machine learning pipelines in Python and SQL.</i></p>
+
+<h3 align="center"><span style="color:#58a6ff">Hi! I'm zuhamaryam 👋</span></h3>
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-## 📌 About Me
+### 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science and Engineering student
-- 💻 Focused on Python programming and Machine Learning
-- 🤖 Interested in Artificial Intelligence and Deep Learning
-- 📊 Exploring Data Science, Data Analytics and SQL
-- 🚀 Building practical projects and innovative solutions
-- 🎯 **Career goal:** AI/ML Engineer
+- ✓ I am a final-year Computer Science Engineering student at Nawab Shah Alam Khan College of Engineering, Hyderabad.
+- ✓ I work as an ML Engineer Intern at Edunet Foundation, building AI-powered systems.
+- ✓ I build machine learning pipelines, predictive models and data-driven systems in Python and SQL.
+- ✓ I am studying Deep Learning, Statistics and Database Management Systems as part of my coursework.
+- ✓ I am building an AI-powered scam honeypot (SARA-AGENT-AI) and a multi-modal AI content verifier (VeriFlow).
+- ✓ My goal is to apply analytical, machine learning and software engineering skills to solve real-world problems.
 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zuhamaryam&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" width="100%" alt="GitHub stats" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-261b-4f1a-9b8a-9a1d-2f1c5f5e6b3a.gif" width="100%" alt="Coding illustration" />
 
 </td>
 </tr>
 </table>
 
-## 🌐 Socials
+### 🌐 Socials
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhamaryam676@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuhamaryam)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zuhamaryam)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://zuhamaryam-portfolio--zuhamaryam676.replit.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuhamaryam676@gmail.com)
 
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
+### 💻 Tech Stack
 
 <p align="center">
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zuhamaryam&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhamaryam&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=zuhamaryam&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 <p align="center">
-<img src="./radar-chart.svg" width="460" alt="Live language mix, updated every 6 hours" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zuhamaryam&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=zuhamaryam&show_icons=true&theme=tokyonight&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" alt="GitHub stats" />
 </p>
-
-## 📈 Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhamaryam&theme=github-compact&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&hide_border=true" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=zuhamaryam&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" alt="GitHub streak" />
 </p>
 
-## 📌 Top Repo
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhamaryam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most used languages" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zuhamaryam&theme=github-compact&bg_color=0d1117&color=FF6B00&line=FF6B00&point=ffffff&hide_border=true" alt="Contribution graph" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zuhamaryam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=3" alt="GitHub trophies" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=zuhamaryam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=zuhamaryam&repo=SARA-AGENT-AI&theme=tokyonight&hide_border=true" alt="SARA-AGENT-AI" />
 </p>
 
-## 💬 Random Dev Quote
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zuhamaryam&color=FF6B00&style=flat" alt="Profile views" />
+</p>
 
-> *"Learning continuously. Building intelligently. Growing through innovation."*
-
-<p align="center">⭐ Thank you for visiting my profile! ⭐</p>
+<p align="center"><b>Zuha Maryam • zuhamaryam</b></p>
