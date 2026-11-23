@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  About Me<br><br>I'm a final-year Computer Science and Engineering student interested in Python, Machine Learning, and Data Science. I enjoy building practical software solutions and exploring AI-based applications.<br><br>- Final-year CSE student<br>- Python, Machine Learning & Deep Learning<br>- Exploring Data Analytics and SQL<br>- Interested in AI agents and intelligent systems<br>- Aspiring Machine Learning Engineer
 
 
